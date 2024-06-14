@@ -1,0 +1,43 @@
+body {
+    background-color: #8badc9; 
+    color: #073c82; 
+}
+#hed {
+    text-align: center;
+}
+
+#RP {
+    list-style-type: none;
+    margin: 0;
+    padding-left: 460px;
+  }
+
+#BP {
+    list-style-type: none;
+    margin: 0;
+    padding-left: 700px;
+  }
+
+footer {
+    text-align: center;
+    margin-right: 200px;
+}
+
+#themorph {
+    width: 300px;
+    padding-left: 500px;
+}
+
+header {
+    text-align: center;
+}
+
+#happyshrek {
+    width:350px;
+    padding-left: 200px;
+}
+
+#madshrek {
+    width: 350px;
+    padding-left: 200px;
+}
